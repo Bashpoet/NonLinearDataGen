@@ -1,9 +1,9 @@
 # NonLinearDataGen
 A Python class designed for generating synthetic nonlinear data, adding Gaussian noise, performing polynomial regression, and interpolating the fitted results
 
-# NonlinearDataGenerator
+# NonLinearDataGen
 
-The **NonlinearDataGenerator** is a Python class designed to generate, manipulate, and fit nonlinear datasets. It enables the creation of synthetic data using a quadratic function, introduces customizable Gaussian noise, performs polynomial regression, and interpolates the fitted curve for smooth visualization. This tool is perfect for data science education, algorithm benchmarking, and research in statistical modeling.
+The **NonLinearDataGen** is a Python class designed to generate, manipulate, and fit nonlinear datasets. It enables the creation of synthetic data using a quadratic function, introduces customizable Gaussian noise, performs polynomial regression, and interpolates the fitted curve for smooth visualization. This tool is perfect for data science education, algorithm benchmarking, and research in statistical modeling.
 
 ## 🚀 Features
 
